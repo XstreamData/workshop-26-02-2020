@@ -13,12 +13,12 @@ I partecipanti si troveranno davanti a sfide come:
 4. Creare una dashboard con tantissime visualizzazioni bellissime !
 
 ###### AGENDA
-18:30– Accoglienza e registrazione
-18,45– Introduzione al workshop
-19:15– Inizio lavori, Fase 1
-20:15– Break – Food&Networking
-20.45– Ripresa lavori, Fase 2
-21.45– Fine lavori e conclusione
+- 18:30 – Accoglienza e registrazione
+- 18:45 – Introduzione al workshop
+- 19:15 – Inizio lavori, Fase 1
+- 20:15 – Break – Food&Networking
+- 20:45 – Ripresa lavori, Fase 2
+- 21:45 – Fine lavori e conclusione
 
 ###### Requisiti Necessari:
 
@@ -37,5 +37,7 @@ Per una migliore organizzazione del workshop, e a definizione del livelloappropr
 ------
 
 Telegram XSTREAM DATA [t.me/XStreamData](http://t.me/XStreamData)
+
 Xstream Data Tech Community @Linkedin http://bit.ly/XStreamData-Lin
+
 Xstream Data Tech Community @Meetup http://bit.ly/XStreamDataCMM
